@@ -1,0 +1,1 @@
+# Emuleo web framework templates
